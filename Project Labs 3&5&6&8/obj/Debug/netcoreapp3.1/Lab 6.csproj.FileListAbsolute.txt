@@ -1,0 +1,6 @@
+C:\Visual Studio\C#\Lab 6\obj\Debug\netcoreapp3.1\Lab 6.csprojAssemblyReference.cache
+C:\Visual Studio\C#\Lab 6\obj\Debug\netcoreapp3.1\Lab 6.AssemblyInfoInputs.cache
+C:\Visual Studio\C#\Lab 6\obj\Debug\netcoreapp3.1\Lab 6.AssemblyInfo.cs
+C:\Visual Studio\C#\Lab 6 — копия\obj\Debug\netcoreapp3.1\Lab 6.csprojAssemblyReference.cache
+C:\Visual Studio\C#\Lab 6 — копия\obj\Debug\netcoreapp3.1\Lab 6.AssemblyInfoInputs.cache
+C:\Visual Studio\C#\Lab 6 — копия\obj\Debug\netcoreapp3.1\Lab 6.AssemblyInfo.cs
