@@ -2,7 +2,7 @@
 using System.Net.Mime;
 using System.Text;
 
-namespace TestSolution.Properties
+namespace Lab_6.Properties
 {
     public class Student : Person, IPerson
     {
